@@ -1,6 +1,8 @@
 ## Every journey has an end, take it easy and enjoy!
 
-I am always fascinated by **computer graphics**, and currently doing research in **physics-based animation**, especially **differentiable simulation**.
+I am always fascinated by **computer graphics**.
+
+Currently doing research in **physics-based animation**, especially **differentiable simulation**.
 
 [![yellow-duck](https://user-images.githubusercontent.com/47491676/182266723-b3d46979-5d81-4d30-95c1-e86f290d044f.gif)](https://github.com/zhehaoli1999/Taichi-voxel-challenge)
 <!--
