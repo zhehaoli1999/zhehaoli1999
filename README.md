@@ -1,4 +1,6 @@
-### Hi there 👋
+### Every journey has an end, take it easy and enjoy!
+
+- Always fascinated by computer graphics, and currently doing research in physics-based animation, especially differentiable simulation. 
 
 <!--
 **zhehaoli1999/zhehaoli1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
