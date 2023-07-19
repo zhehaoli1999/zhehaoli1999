@@ -5,6 +5,9 @@ I am always fascinated by **computer graphics**.
 Currently doing research in **physics-based animation**, especially **differentiable simulation**.
 
 [![yellow-duck](https://user-images.githubusercontent.com/47491676/182266723-b3d46979-5d81-4d30-95c1-e86f290d044f.gif)](https://github.com/zhehaoli1999/Taichi-voxel-challenge)
+
+("Tiny White Boat & Giant Yellow Duck", Winner of "Committee's Pick" award in Taichi Voxel Challange 2022)
+
 <!--
 **zhehaoli1999/zhehaoli1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
