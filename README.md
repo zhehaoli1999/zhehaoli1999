@@ -1,8 +1,8 @@
-## Every journey has an end, take it easy and enjoy!
+## Hi there!
 
-I am always fascinated by **computer graphics**.
+A fundamental goal of this era is to build highly intelligent machines that can both think and act in the physical world to assist people.
 
-Currently doing research in **physics-based animation**.
+Currently doing research in physics-based simulation and learning.
 
 [![yellow-duck](https://user-images.githubusercontent.com/47491676/182266723-b3d46979-5d81-4d30-95c1-e86f290d044f.gif)](https://github.com/zhehaoli1999/Taichi-voxel-challenge)
 
