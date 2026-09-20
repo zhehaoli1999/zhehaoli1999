@@ -2,7 +2,7 @@
 
 I am Zhehao Li, a CS PhD student at Stanford University, interested in simulation, graphics, and AI.
 
-I am excited by a fundamental goal of this era: building intelligent machines 🧠 that can both reason about and act in the physical world—to make the process of thinking computatable, trackable, and reproducible, and to enable machines to assist people in the physical world.
+I am excited by a fundamental goal of this era: building highly intelligent machines at scale 🧠 that can both reason about and act in the physical world—to make the process of thinking computatable, trackable, and reproducible, and to enable machines to assist people in the physical world.
 
 My current research focuses on physics-based simulation and learning, with the broader goal of enabling machines to better understand, reason about, and interact with the physical world.
 
